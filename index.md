@@ -1,37 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/JumboSec/jumbosec.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+JumboSec promotes cybersecurity knowledge and awareness in the Tufts community. We hold informational meetings, compete in various technical and policy-oriented compeitions, and collaborate with alumni. Our members are active in the Tufts CS community and come from a broad array of majors and disiplines across the undergraduate Colleges and the Fletcher School.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our website in currently under construction, but feel free to contact us using the links below:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JumboSec/jumbosec.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [contact@jumbosec.org](mailto:contact@jumbosec.org)
+- [jumbosec.slack.com](https://jumbosec.slack.com)
