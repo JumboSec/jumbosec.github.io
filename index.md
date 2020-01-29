@@ -2,7 +2,7 @@ JumboSec promotes cybersecurity knowledge and awareness in the Tufts community. 
 
 New member? Join our slack channel at [jumbosec.slack.com](https://jumbosec.slack.com).
 
-Weekly meetings are Sunday's at 5pm in SEC/Anderson 208.
+Weekly meetings are Sundays at 5pm in SEC/Anderson 208.
 
 Our website is currently under construction, but feel free to contact us using the link below:
 
