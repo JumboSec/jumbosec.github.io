@@ -1,6 +1,6 @@
 # JumboSec Website
 
-Based on Hyperspace by HTML5 UP (html5up.net)
+Based on [Hyperspace by HTML5 UP (html5up.net)](https://html5up.net/hyperspace)
 
 Released under CCA 3.0 license (html5up.net/license)
 
