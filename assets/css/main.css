@@ -2813,6 +2813,10 @@ input, select, textarea {
 			margin: 0;
 		}
 
+	ul.eboard-nested {
+		list-style: none;
+	}
+
 /* Icons */
 
 	ul.icons {
